@@ -1,4 +1,4 @@
-7# intro-to-github
+87# intro-to-github
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
@@ -16,5 +16,7 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
 A PR will be able to enhance the project.
+
+Let's try this again.
 
 
