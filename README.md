@@ -1,4 +1,4 @@
-87# intro-to-github
+887# intro-to-github
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
@@ -18,5 +18,7 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 A PR will be able to enhance the project.
 
 Let's try this again.
+
+How do I merge it to the Hyperskill repo!!!
 
 
